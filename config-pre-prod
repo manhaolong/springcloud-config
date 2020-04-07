@@ -1,1 +1,2 @@
-master --config-pre-prod --version 1.0
+config:
+  info: "master --config-pre-prod --version 1.0"
